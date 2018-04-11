@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+environment/project/0.1339759384/append=true
+environment/project/0.1339759384/appendContributed=true
+environment/project/0.305993947.2066640461/IDF_PATH/delimiter=\:
+environment/project/0.305993947.2066640461/IDF_PATH/operation=append
+environment/project/0.305993947.2066640461/IDF_PATH/value=/root/esp32/esp-idf
+environment/project/0.305993947.2066640461/PATH/delimiter=\:
+environment/project/0.305993947.2066640461/PATH/operation=append
+environment/project/0.305993947.2066640461/PATH/value=/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/bin\:/root/esp32/xtensa-esp32-elf/bin
+environment/project/0.305993947.2066640461/append=true
+environment/project/0.305993947.2066640461/appendContributed=true
